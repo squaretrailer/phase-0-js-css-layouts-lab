@@ -44,3 +44,8 @@ margin: 0.5em 0 1em;
         max-width: 100%;
     }
 }
+
+.cat-breed:hover {
+transform: scale(1.05);
+transition: transform 0.3s ease;
+}
